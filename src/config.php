@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'loginAccount' => env('PARSIAN_LOGINACCOUNT'),
+    'pin' => env('PARSIAN_Pin'),
 ];
